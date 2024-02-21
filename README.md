@@ -1,2 +1,2 @@
-# DiffSVC
-Audio Demo for "DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion"
+# Fast-GeCo
+Audio Demo for "A Generative Correction Method for Noise-robust Speech Separation"
