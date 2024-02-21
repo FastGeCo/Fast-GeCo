@@ -13,24 +13,21 @@ separation. Furthermore, we fine-tune the generative model by optimizing a predi
 
 
 ## Demo
-### Samples from LibriMix noisy test set.
+### Samples 1 from LibriMix noisy test set.
 
 | Mixture | Reference (speaker 1) | Estimated (SepFormer) | Estimated (GeCo) | Estimated (Fast-GeCo) |
 | :--- | :--- | :--- | :--- | :--- |
 | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> |
 | <audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |
 | | <strong>Reference (speaker 2)</strong> | <strong>Estimated (SepFormer)</strong> | <strong>Estimated (GeCo)</strong> | <strong>Estimated (Fast-GeCo)</strong> |
-| :--- | :--- | :--- | :--- | :--- |
 | | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> |
 | |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |
 
-
-
+### Samples 2 from LibriMix noisy test set.
 | Mixture | Reference (speaker 1) | Estimated (SepFormer) | Estimated (GeCo) | Estimated (Fast-GeCo) |
 | :--- | :--- | :--- | :--- | :--- |
 | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> |
 | <audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |
 | | <strong>Reference (speaker 2)</strong> | <strong>Estimated (SepFormer)</strong> | <strong>Estimated (GeCo)</strong> | <strong>Estimated (Fast-GeCo)</strong> |
-| :--- | :--- | :--- | :--- | :--- |
 | | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> | <img src="demo_img/sepformer/item0_mix.png" alt="Image"> |
 | |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |<audio src="demo/sepformer/item0_mix.wav" controls preload></audio> |
