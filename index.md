@@ -7,8 +7,6 @@
 Speech separation, the task of isolating multiple speech sources from a mixed audio signal, remains challenging in noisy environments. In this paper, we propose a generative correction method to enhance the output of a discriminative separator. By leveraging a generative corrector based on a diffusion model, we refine the separation process for single-channel mixture speech by removing noises and perceptually unnatural distortions. Furthermore, we optimize the generative model using a predictive loss to streamline the diffusion model’s reverse process into a single step and rectify any associated errors by the reverse process. Our method achieves state-of-the-art performance on the Libri2Mix noisy dataset, demonstrating robustness to noise and strong generalization to out-of-domain data.
 
 ## Model Overview
-<img src="imgs/pic1.png" alt="Discriminative separato" width="600">
-<img src="imgs/pic2.png" alt="Generative corrector" width="600">
 <img src="imgs/pic3.png" alt="Fast generative corrector" width="600">
 
 ## Demo
