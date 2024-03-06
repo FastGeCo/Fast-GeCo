@@ -10,7 +10,7 @@ Speech separation, the task of isolating multiple speech sources from a mixed au
 <img src="imgs/pic1.png" alt="Discriminative separator" />
 <img src="imgs/pic2.png" alt="Generative corrector" />
 <img src="imgs/pic3.png" alt="Fast generative corrector" />
-<img src="imgs/pic1.png" alt="Image" width="300" height="200">
+<img src="imgs/pic1.png" alt="Image" width="300">
 
 ## Demo
 ### Samples 1 from LibriMix noisy test set.
