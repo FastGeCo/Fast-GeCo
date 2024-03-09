@@ -1,10 +1,10 @@
-# <center> A Generative Correction Method for Noise-robust Speech Separation </center>
+# <center> Noise-robust Speech Separation with Fast Generative Correction </center>
 
 <center> Anonymous submission to Interspeech 2024 </center> 
 
 ## Abstract
 
-Speech separation, the task of isolating multiple speech sources from a mixed audio signal, remains challenging in noisy environments. In this paper, we propose a generative correction method to enhance the output of a discriminative separator. By leveraging a generative corrector based on a diffusion model, we refine the separation process for single-channel mixture speech by removing noises and perceptually unnatural distortions. Furthermore, we optimize the generative model using a predictive loss to streamline the diffusion model’s reverse process into a single step and rectify any associated errors by the reverse process. Our method achieves state-of-the-art performance on the Libri2Mix noisy dataset, demonstrating robustness to noise and strong generalization to out-of-domain data.
+Speech separation, the task of isolating multiple speech sources from a mixed audio signal, remains challenging in noisy environments. In this paper, we propose a generative correction method to enhance the output of a discriminative separator. By leveraging a generative corrector based on a diffusion model, we refine the separation process for single-channel mixture speech by removing noises and perceptually unnatural distortions. Furthermore, we optimize the generative model using a predictive loss to streamline the diffusion model’s reverse process into a single step and rectify any associated errors by the reverse process. Our method achieves state-of-the-art performance on the in-domain Libri2Mix noisy dataset, and out-of-domain WSJ with a variety of noises, improving SI-SNR by 22-35% relative to SepFormer, demonstrating robustness and strong generalization capabilities.
 
 ## Model Overview
 <img src="imgs/pic3.png" alt="Fast generative corrector" width="600">
